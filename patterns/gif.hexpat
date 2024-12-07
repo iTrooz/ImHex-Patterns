@@ -1,7 +1,7 @@
 #pragma description GIF image
 
 #pragma MIME image/gif
-
+zazaza
 // Extension Labels
 #define LABEL_GC 0xF9
 #define LABEL_COMMENT 0xFE
